@@ -4,3 +4,6 @@ perro
 gato
 jabalí
 ballena
+tigre
+mosquito
+rata
